@@ -5,7 +5,7 @@
 // @version        1.0.0
 // @license        MIT
 // @include        http://*.campfirenow.com*
-// @exclude        https://*.campfirenow.com*
+// @include        https://*.campfirenow.com*
 // ==/UserScript== 
 
 
